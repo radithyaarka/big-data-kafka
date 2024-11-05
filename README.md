@@ -74,4 +74,4 @@ docker-compose down
 
 ## Dokumentasi Hasil
 
-![Hasil](images/hasil.jpg)
+![Hasil](images/dokum.jpg)
