@@ -2,7 +2,7 @@
 
 | Nama                     | NRP        |
 | ------------------------ | ---------- |
-| M. Arkananta Radithya T. | 123456789  |
+| M. Arkananta Radithya T. | 5027221003 |
 | Alma Amira Dewani        | 5027221054 |
 
 ## Instalasi
