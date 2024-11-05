@@ -51,7 +51,7 @@ docker ps
 3. Buat topik kafka untuk data suhu dengan nama "sensor-suhu".
 
 ```
-docker exec -it kafka kafka-topics.sh --create --topic sensor-suhu --bootstrap-server localhost:9092 --partitions 1 --replication-factor 1
+docker exec -it ini-kafka kafka-topics.sh --create --topic sensor-suhu --bootstrap-server localhost:9092 --partitions 1 --replication-factor 1
 ```
 
 4. Jalankan program `producer.py` yang akan mulai mengirim data suhu acak ke topik.
